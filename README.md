@@ -50,6 +50,28 @@ GharDekho is a real-estate web application designed to simplify property discove
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![GharDekho Homepage](docs/screenshots/01-homepage.png)
+
+### 🏘️ Featured Properties
+![Featured Properties](docs/screenshots/02-feature-properties.png)
+
+### ⚙️ How It Works
+![How It Works](docs/screenshots/03-how-it-works.png)
+
+### 👨‍💼 Admin Dashboard
+![Admin Dashboard](docs/screenshots/04-admin-dashboard.png)
+
+### 📩 Manage Inquiries
+![Manage Inquiries](docs/screenshots/05-manage-inquiries.png)
+
+### 📅 Visit Requests
+![Visit Requests](docs/screenshots/06-visit-requests.png)
+
+---
+
 ## 📁 Project Structure
 
 ```text
@@ -62,3 +84,4 @@ ghardekho/
 ├── composer.json          # PHP dependencies
 ├── composer.lock
 └── README.md
+
